@@ -14,7 +14,7 @@ object-server.conf                  object-server已配置文件
 swift.conf-sample                   swift.conf模板文件     
 swift.conf                          swift.conf已配置文件
 
-如需使用以上文件，请将文件移动到相应的路径下。
+如需使用以上文件，请将文件移动到相应的路径下（如路径不存在请自行创建）。
 /etc/swift/proxy-server.conf
 /etc/rsyncd.conf
 /etc/swift/swift.conf
